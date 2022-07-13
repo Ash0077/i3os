@@ -1,5 +1,5 @@
 ,DISTRICT_NAME,MONTH,USER_ENGAGEMENT,FAMILY_ENGAGEMENT,SCHOOL_COUNT,PRACTICE
-0,Mt. Lebanon School District,1.6279488e+12,5.0,0.0,200,45100.0
+0,Mt. Lebanon School District,1w,5.0,0.0,5,45100.0
 1,Mt. Lebanon School District,2w,8.0,0.0,8,451.0
 2,Mt. Lebanon School District,3w,9.0,50.0,8,451.0
 3,Mt. Lebanon School District,4w,10.0,16.0,8,451.0
@@ -10,6 +10,6 @@
 8,Mt. Lebanon School District,9w,11.0,30.0,8,451.0
 9,Mt. Lebanon School District,10w,11.0,30.0,8,451.0
 10,Mt. Lebanon School District,11w,11.0,30.0,8,451.0
-11,Mt. Lebanon School District,12w,11.0,30.0,8,451.0
+11,Mt. Lebanon School District,12w,11.0,30.0,9,451.0
 12,Mt. Lebanon School District,13w,14.0,90.0,10,440.0
-13,Mt. Lebanon School District,14w,15.0,200.0,8,451.0
+13,Mt. Lebanon School District,14w,15.0,200.0,11,451.0
